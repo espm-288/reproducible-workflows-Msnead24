@@ -1,8 +1,12 @@
 ---
 title: "example-notebook.qmd"
 format: html
-editor: visual
+author: Mychala Snead
 ---
+
+'''{r}
+ library(tidyverse)
+ library(ggplot)
 
 ## Quarto
 
